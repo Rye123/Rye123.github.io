@@ -34,6 +34,10 @@ As a **cybersecurity intern**, I...
 A repository containing various tiny projects not worth their own repository.
 - [Project URL](https://github.com/Rye123/playground)
 
+## ascii-3d
+A rudimentary, barebones 3D renderer in ASCII.
+- [Project URL](https://github.com/Rye123/ascii-3d)
+
 ## otp-gen
 A simple Python implementation of time-based one-time passwords (TOTPs) (Defined in [RFC 4226](https://www.rfc-editor.org/rfc/rfc4226) and [RFC 6238](https://www.ietf.org/rfc/rfc6238.txt)).
 - [Project URL](https://github.com/Rye123/otp_gen)
