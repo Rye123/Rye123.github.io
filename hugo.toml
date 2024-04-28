@@ -1,0 +1,41 @@
+baseURL = 'http://rye123.net/'
+languageCode = 'en-sg'
+title = 'Rye123'
+theme = 'nightfall'
+
+readingTime = true
+
+[menu]
+  [[menu.header]]
+    name = "posts"
+    weight = 0
+    url = "/posts"
+  [[menu.header]]
+    name = "about"
+    weight = 1
+    url = "/about"
+  [[menu.header]]
+    name = "resume"
+    weight = 2
+    url = "https://registry.jsonresume.org/Rye123?theme=stackoverflow"
+
+[params]
+user = "rye123"
+hostname = "rye123.net"
+  [params.author]
+    name = "Ryan"
+    email = "ryantoh99@gmail.com"
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/Rye123"
+target = "_blank"
+aria = "GitHub Profile"
+
+[[params.social]]
+key = 1
+name = "email"
+url = "mailto:ryantoh99@gmail.com"
+aria = "My e-Mail Address"
+
